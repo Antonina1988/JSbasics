@@ -40,12 +40,7 @@ console.log(sum);
  let userName = prompt("What is your name?");
  alert(greeting+userName);
  
-
  
-
- 
-
-
 
 
 
