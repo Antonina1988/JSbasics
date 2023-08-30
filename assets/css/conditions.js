@@ -58,8 +58,7 @@ let customer = {
 }
 console.log(customer);
 customer.numberTelephone ='+380638900000';
-customer.isMale[male]= true,
-customer.isMale[female]= false,
+let customer= isMale male / female,
 delete customer. adress;
 let customer = {...customer1};
 console.log('custome :>> ', custome);
