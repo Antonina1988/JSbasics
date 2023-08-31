@@ -58,11 +58,11 @@ let customer = {
 }
 console.log(customer);
 customer.numberTelephone ='+380638900000';
-let customer= isMale male / female,
-delete customer. adress;
-let customer = {...customer1};
-console.log('custome :>> ', custome);
-console.log(custome===custome1);
+customer.isMale = true,
+delete customer.adress;
+let customer1 = {...customer};
+console.log('custome :>> ', customer1);
+console.log(customer===customer1);
 
 //2)
 const cat = {
